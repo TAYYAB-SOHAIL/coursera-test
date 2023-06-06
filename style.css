@@ -451,3 +451,11 @@ h3.menu-item-title {
   font-style: italic;
 }
 /* END SINGLE CATEGORY PAGE */
+.heading{
+font-size: 60px;
+font-weight: bold;
+}
+.myjumptron{
+  font-size: 20px;
+font-weight: normal;
+}
